@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    border-width: 2px;
+}
+
+h1 {
+    color: blue;
+}
+ 
+h2 {
+    color: brown;
+    text-emphasis: none;
+}
+
+img {
+    padding: 5%;
+}
+
+footer {
+    align-items: center;
+}
+
